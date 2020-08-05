@@ -139,21 +139,19 @@
 - 光环云社群
 - 手机排队
 - [全民约跑健身便利店](http://www.oneminsport.com/)
-- [洽洽食品](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQFM8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAycDRPOXBZbVZib2UxMDAwME0wN2gAAgRIu4RbAwQAAAAA)、[洽洽合伙人](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQFP8jwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyOUpJaU5VcXBlWTAxMDAwME0wN1oAAgSau4RbAwQAAAAA)
 - 民医台
 - YshopMall
 - 好行景区直通车以及全国40多个公众号
 - 我奥篮球公众号
 
 #### 企业号/企业微信：
-- 洽洽企业号
 - HTC企业微信
 - 掌上史丹利
 
 #### 其他：
 - 高善人力资源
-- [小猪餐餐](http://www.xzcancan.com/)
-- [餐饮系统](http://canyin.daydao.com)
+- 小猪餐餐
+- 餐饮系统
 - 微信公众号管理系统：http://demo.joolun.com
 - 锐捷网络：Saleslink
 
